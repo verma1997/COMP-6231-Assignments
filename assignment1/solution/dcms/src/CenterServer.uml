@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>CenterServer</OriginalElement>
+  <nodes>
+    <node x="42.5" y="311.0">java.rmi.Remote</node>
+    <node x="130.0" y="237.0">UDPServer</node>
+    <node x="341.0" y="390.0">Teacher</node>
+    <node x="224.0" y="390.0">Student</node>
+    <node x="134.5" y="79.0">java.lang.Runnable</node>
+    <node x="483.0" y="311.0">LogFile</node>
+    <node x="104.0" y="0.0">java.lang.FunctionalInterface</node>
+    <node x="0.0" y="390.0">ClassServiceInterface</node>
+    <node x="25.5" y="469.0">CenterServer</node>
+    <node x="264.0" y="237.0">ManagerClient</node>
+    <node x="141.5" y="158.0">java.lang.Thread</node>
+    <node x="282.5" y="311.0">Member</node>
+    <node x="0.0" y="237.0">UDPClient</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Teacher" target="Member">
+      <point x="0.0" y="-14.5" />
+      <point x="389.5" y="365.0" />
+      <point x="355.25" y="365.0" />
+      <point x="24.25" y="14.5" />
+    </edge>
+    <edge source="CenterServer" target="ClassServiceInterface">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Runnable" target="java.lang.FunctionalInterface">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="ClassServiceInterface" target="java.rmi.Remote">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="java.lang.Thread" target="java.lang.Runnable">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="Student" target="Member">
+      <point x="0.0" y="-14.5" />
+      <point x="272.5" y="365.0" />
+      <point x="306.75" y="365.0" />
+      <point x="-24.25" y="14.5" />
+    </edge>
+    <edge source="ManagerClient" target="java.lang.Thread">
+      <point x="0.0" y="-14.5" />
+      <point x="332.0" y="212.0" />
+      <point x="217.33333333333331" y="212.0" />
+      <point x="30.333333333333314" y="14.5" />
+    </edge>
+    <edge source="UDPServer" target="java.lang.Thread">
+      <point x="0.0" y="-14.5" />
+      <point x="0.0" y="14.5" />
+    </edge>
+    <edge source="UDPClient" target="java.lang.Thread">
+      <point x="0.0" y="-14.5" />
+      <point x="55.0" y="212.0" />
+      <point x="156.66666666666666" y="212.0" />
+      <point x="-30.333333333333343" y="14.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="445.0" y="249.0" />
+  <SelectedNodes>
+    <node>CenterServer</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

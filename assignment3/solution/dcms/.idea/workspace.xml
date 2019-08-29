@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9577f209-224b-4706-8341-5100ba6ceaf7" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ManagerClient.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/dcms/ManagerClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="458" column="61" selection-start-line="458" selection-start-column="61" selection-end-line="458" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Member_Webservice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/Member_Webservice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="11" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CenterServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/CenterServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4365">
+              <caret line="291" column="65" selection-start-line="291" selection-start-column="65" selection-end-line="291" selection-end-column="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MemberRecord.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/MemberRecord.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Publisher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/Publisher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JAVA/dcms" pinned="false" current-in-tab="false">
+        <entry file="uml://JAVA/dcms">
+          <provider selected="true" editor-type-id="UmlEditorProvider">
+            <state>
+              <ID>JAVA</ID>
+              <OriginalElement>dcms</OriginalElement>
+              <nodes>
+                <node x="1332.0" y="876.0">dcms.UDPClient</node>
+                <node x="809.0" y="0.0">dcms.Teacher</node>
+                <node x="1076.0" y="268.0">dcms.MemberRecord</node>
+                <node x="0.0" y="101.0">dcms.Member_Webservice</node>
+                <node x="1274.0" y="77.0">dcms.Student</node>
+                <node x="1350.0" y="382.0">dcms.LogFile</node>
+                <node x="844.0" y="835.0">dcms.UDPServer</node>
+                <node x="1137.0" y="519.0">java.lang.Object</node>
+                <node x="451.0" y="350.0">dcms.CenterServer</node>
+                <node x="1436.0" y="634.0">dcms.Publisher</node>
+                <node x="1086.0" y="991.0">dcms.ManagerClient</node>
+              </nodes>
+              <notes />
+              <edges>
+                <edge source="dcms.MemberRecord" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.CenterServer" target="dcms.Member_Webservice">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.ManagerClient" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.Publisher" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.UDPClient" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.UDPServer" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.Teacher" target="dcms.MemberRecord">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.LogFile" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.CenterServer" target="java.lang.Object">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+                <edge source="dcms.Student" target="dcms.MemberRecord">
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
+                </edge>
+              </edges>
+              <settings layout="Hierarchic Group" zoom="0.276657060518732" x="857.4999999999999" y="576.5" />
+              <SelectedNodes>
+                <node>dcms.UDPClient</node>
+              </SelectedNodes>
+              <Categories>
+                <Category>Constructors</Category>
+                <Category>Methods</Category>
+              </Categories>
+              <SCOPE>All</SCOPE>
+              <VISIBILITY>private</VISIBILITY>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Teacher.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/Teacher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UDPServer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/UDPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UDPClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/dcms/UDPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/member/LogFile.java" />
+        <option value="$PROJECT_DIR$/src/member/ManagerClient.java" />
+        <option value="$PROJECT_DIR$/src/member/Member_Webservice.java" />
+        <option value="$PROJECT_DIR$/src/member/MemberRecord.java" />
+        <option value="$PROJECT_DIR$/src/member/Student.java" />
+        <option value="$PROJECT_DIR$/src/member/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/member/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/member/UDPServer.java" />
+        <option value="$PROJECT_DIR$/src/member/CenterServer.java" />
+        <option value="$PROJECT_DIR$/src/dcms/LogFile.java" />
+        <option value="$PROJECT_DIR$/src/dcms/MemberRecord.java" />
+        <option value="$PROJECT_DIR$/src/dcms/Student.java" />
+        <option value="$PROJECT_DIR$/src/dcms/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/dcms/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/dcms/UDPServer.java" />
+        <option value="$PROJECT_DIR$/src/UDPServer.java" />
+        <option value="$PROJECT_DIR$/src/UDPClient.java" />
+        <option value="$PROJECT_DIR$/src/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/Student.java" />
+        <option value="$PROJECT_DIR$/src/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/MemberRecord.java" />
+        <option value="$PROJECT_DIR$/src/Member_Webservice.java" />
+        <option value="$PROJECT_DIR$/src/ManagerClient.java" />
+        <option value="$PROJECT_DIR$/src/LogFile.java" />
+        <option value="$PROJECT_DIR$/src/CenterServer.java" />
+        <option value="$PROJECT_DIR$/src/logs/test.java" />
+        <option value="$PROJECT_DIR$/src/logs/test1.java" />
+        <option value="$PROJECT_DIR$/src/dcms/Member_Webservice.java" />
+        <option value="$PROJECT_DIR$/src/dcms/test.java" />
+        <option value="$PROJECT_DIR$/src/dcms/CenterServer.java" />
+        <option value="$PROJECT_DIR$/src/dcms/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/dcms/ManagerClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="878" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="dcms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dcms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcms" type="462c0819:PsiDirectoryNode" />
+              <item name="logs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dcms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dcms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dcms" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="dcms" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Publisher">
+    <configuration name="CenterServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dcms.CenterServer" />
+      <module name="dcms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Publisher (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Publisher" />
+      <module name="dcms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Publisher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dcms.Publisher" />
+      <module name="dcms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logs.test" />
+      <module name="dcms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="logs.test1" />
+      <module name="dcms" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CenterServer" />
+      <item itemvalue="Application.Publisher" />
+      <item itemvalue="Application.Publisher (1)" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="Application.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Publisher" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Publisher (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9577f209-224b-4706-8341-5100ba6ceaf7" name="Default" comment="" />
+      <created>1530373330757</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530373330757</updated>
+      <workItem from="1530373334299" duration="38197000" />
+      <workItem from="1531030768355" duration="1000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38198000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="878" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26632524" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3290653" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19098713" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39948782" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3290653" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.3290653" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/dcms/ManagerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6765">
+          <caret line="458" column="61" selection-start-line="458" selection-start-column="61" selection-end-line="458" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Member_Webservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/CenterServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4365">
+          <caret line="291" column="65" selection-start-line="291" selection-start-column="65" selection-end-line="291" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/MemberRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Publisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/dcms">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>dcms</OriginalElement>
+          <nodes>
+            <node x="1332.0" y="876.0">dcms.UDPClient</node>
+            <node x="809.0" y="0.0">dcms.Teacher</node>
+            <node x="1076.0" y="268.0">dcms.MemberRecord</node>
+            <node x="0.0" y="101.0">dcms.Member_Webservice</node>
+            <node x="1274.0" y="77.0">dcms.Student</node>
+            <node x="1350.0" y="382.0">dcms.LogFile</node>
+            <node x="844.0" y="835.0">dcms.UDPServer</node>
+            <node x="1137.0" y="519.0">java.lang.Object</node>
+            <node x="451.0" y="350.0">dcms.CenterServer</node>
+            <node x="1436.0" y="634.0">dcms.Publisher</node>
+            <node x="1086.0" y="991.0">dcms.ManagerClient</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="dcms.MemberRecord" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.CenterServer" target="dcms.Member_Webservice">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.ManagerClient" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.Publisher" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.UDPClient" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.UDPServer" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.Teacher" target="dcms.MemberRecord">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.LogFile" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.CenterServer" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.Student" target="dcms.MemberRecord">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.276657060518732" x="857.4999999999999" y="576.5" />
+          <SelectedNodes>
+            <node>dcms.UDPClient</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/member/LogFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/ManagerClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/Member_Webservice.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/MemberRecord.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/UDPClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/UDPServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/member/CenterServer.java" />
+    <entry file="file://$PROJECT_DIR$/out/production/dcms/dcms/CenterServer.class" />
+    <entry file="file://$PROJECT_DIR$/UDPClient.java" />
+    <entry file="file://$PROJECT_DIR$/CenterServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/UDPServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/UDPClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/Teacher.java" />
+    <entry file="file://$PROJECT_DIR$/src/Student.java" />
+    <entry file="file://$PROJECT_DIR$/src/Publisher.java" />
+    <entry file="file://$PROJECT_DIR$/src/MemberRecord.java" />
+    <entry file="file://$PROJECT_DIR$/src/Member_Webservice.java" />
+    <entry file="file://$PROJECT_DIR$/src/ManagerClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/LogFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/CenterServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/dcms/CenterServer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logs/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/logs/test1.java" />
+    <entry file="file://$PROJECT_DIR$/src/dcms/LogFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/UDPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="43" column="37" selection-start-line="43" selection-start-column="37" selection-end-line="43" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/UDPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="38" column="70" selection-start-line="38" selection-start-column="70" selection-end-line="38" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JavaScript-modules-diagram//Users/xulei/Desktop/COMP 6231/assignments/assignment3/solution/dcms/src">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JavaScript-modules-diagram</ID>
+          <OriginalElement>$PROJECT_DIR$/src</OriginalElement>
+          <nodes />
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="567.0" y="365.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>All</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>Details</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement />
+          <nodes>
+            <node x="" y="">dcms.Teacher</node>
+            <node x="" y="">com</node>
+            <node x="" y="">dcms.Member_Webservice</node>
+            <node x="" y="">server</node>
+            <node x="" y="">netscape</node>
+            <node x="" y="">dcms.Publisher</node>
+            <node x="" y="">toolbarButtonGraphics</node>
+            <node x="" y="">dcms.ManagerClient</node>
+            <node x="" y="">sun</node>
+            <node x="" y="">dcms.UDPClient</node>
+            <node x="" y="">dcms.MemberRecord</node>
+            <node x="" y="">apple</node>
+            <node x="" y="">groovyjarjarasm</node>
+            <node x="" y="">java</node>
+            <node x="" y="">javax</node>
+            <node x="" y="">dcms.Student</node>
+            <node x="" y="">client</node>
+            <node x="" y="">javafx</node>
+            <node x="" y="">oracle</node>
+            <node x="" y="">org</node>
+            <node x="" y="">dcms.LogFile</node>
+            <node x="" y="">resources</node>
+            <node x="" y="">dcms.CenterServer</node>
+            <node x="" y="">META-INF</node>
+            <node x="" y="">jdk</node>
+            <node x="" y="">groovy</node>
+            <node x="" y="">dcms.UDPServer</node>
+            <node x="" y="">groovyjarjarcommonscli</node>
+            <node x="" y="">groovyjarjarantlr</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="1458.0" y="756.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Methods</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/dcms">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>dcms</OriginalElement>
+          <nodes>
+            <node x="1332.0" y="876.0">dcms.UDPClient</node>
+            <node x="809.0" y="0.0">dcms.Teacher</node>
+            <node x="1076.0" y="268.0">dcms.MemberRecord</node>
+            <node x="0.0" y="101.0">dcms.Member_Webservice</node>
+            <node x="1274.0" y="77.0">dcms.Student</node>
+            <node x="1350.0" y="382.0">dcms.LogFile</node>
+            <node x="844.0" y="835.0">dcms.UDPServer</node>
+            <node x="1137.0" y="519.0">java.lang.Object</node>
+            <node x="451.0" y="350.0">dcms.CenterServer</node>
+            <node x="1436.0" y="634.0">dcms.Publisher</node>
+            <node x="1086.0" y="991.0">dcms.ManagerClient</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="dcms.MemberRecord" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.CenterServer" target="dcms.Member_Webservice">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.ManagerClient" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.Publisher" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.UDPClient" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.UDPServer" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.Teacher" target="dcms.MemberRecord">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.LogFile" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.CenterServer" target="java.lang.Object">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="dcms.Student" target="dcms.MemberRecord">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.276657060518732" x="857.4999999999999" y="576.5" />
+          <SelectedNodes>
+            <node>dcms.UDPClient</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/dcms/MemberRecord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Member_Webservice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/Publisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/CenterServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4365">
+          <caret line="291" column="65" selection-start-line="291" selection-start-column="65" selection-end-line="291" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dcms/ManagerClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="458" column="61" selection-start-line="458" selection-start-column="61" selection-end-line="458" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dcms.uml">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>dcms</OriginalElement>
+          <nodes>
+            <node x="750.0" y="486.0">dcms.UDPClient</node>
+            <node x="1257.75" y="720.0">dcms.Teacher</node>
+            <node x="1110.0" y="486.5">dcms.MemberRecord</node>
+            <node x="0.0" y="66.5">dcms.Member_Webservice</node>
+            <node x="858.75" y="720.0">dcms.Student</node>
+            <node x="2002.0" y="475.0">dcms.LogFile</node>
+            <node x="2231.0" y="486.0">dcms.UDPServer</node>
+            <node x="1450.0" y="0.0">java.lang.Object</node>
+            <node x="1703.0" y="486.5">dcms.Publisher</node>
+            <node x="146.0" y="376.0">dcms.CenterServer</node>
+            <node x="1428.0" y="442.0">dcms.ManagerClient</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="dcms.MemberRecord" target="java.lang.Object">
+              <point x="0.0" y="-36.5" />
+              <point x="1259.0" y="356.0" />
+              <point x="1525.357142857143" y="356.0" />
+              <point x="-30.14285714285711" y="158.0" />
+            </edge>
+            <edge source="dcms.CenterServer" target="dcms.Member_Webservice">
+              <point x="-146.0" y="-147.0" />
+              <point x="0.0" y="91.5" />
+            </edge>
+            <edge source="dcms.ManagerClient" target="java.lang.Object">
+              <point x="0.0" y="-81.0" />
+              <point x="0.0" y="158.0" />
+            </edge>
+            <edge source="dcms.Publisher" target="java.lang.Object">
+              <point x="0.0" y="-36.5" />
+              <point x="1842.5" y="356.0" />
+              <point x="1585.642857142857" y="356.0" />
+              <point x="30.14285714285711" y="158.0" />
+            </edge>
+            <edge source="dcms.UDPClient" target="java.lang.Object">
+              <point x="0.0" y="-37.0" />
+              <point x="920.0" y="346.0" />
+              <point x="1495.2142857142858" y="346.0" />
+              <point x="-60.28571428571422" y="158.0" />
+            </edge>
+            <edge source="dcms.UDPServer" target="java.lang.Object">
+              <point x="0.0" y="-37.0" />
+              <point x="2357.0" y="336.0" />
+              <point x="1645.9285714285716" y="336.0" />
+              <point x="90.42857142857156" y="158.0" />
+            </edge>
+            <edge source="dcms.Teacher" target="dcms.MemberRecord">
+              <point x="0.0" y="-47.5" />
+              <point x="1469.75" y="695.0" />
+              <point x="1333.5" y="695.0" />
+              <point x="74.5" y="36.5" />
+            </edge>
+            <edge source="dcms.LogFile" target="java.lang.Object">
+              <point x="0.0" y="-48.0" />
+              <point x="2106.5" y="346.0" />
+              <point x="1615.7857142857142" y="346.0" />
+              <point x="60.28571428571422" y="158.0" />
+            </edge>
+            <edge source="dcms.CenterServer" target="java.lang.Object">
+              <point x="146.0" y="-147.0" />
+              <point x="584.0" y="336.0" />
+              <point x="1465.0714285714287" y="336.0" />
+              <point x="-90.42857142857133" y="158.0" />
+            </edge>
+            <edge source="dcms.Student" target="dcms.MemberRecord">
+              <point x="0.0" y="-47.5" />
+              <point x="1048.25" y="695.0" />
+              <point x="1184.5" y="695.0" />
+              <point x="-74.5" y="36.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.6251378169790518" x="887.0" y="539.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Constructors</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>dcms</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
